@@ -1,5 +1,5 @@
 # jpa03-aardvarkzone
-Running at: <https://aardvarkzone-jpa03.dokku-03.cs.ucsb.edu>
+Running at: <https://jpa03-aardvarkzone.dokku-03.cs.ucsb.edu/>
 
 # Configuring GitHub Pages for the documentation
 
